@@ -11,8 +11,7 @@ import menu_6 from './menu_6.png'
 import menu_7 from './menu_7.png'
 import menu_8 from './menu_8.png'
 import  banner_1 from './banner_1.png'
-import Cravings from './Cravings.png'
-import craving from './craving.png'
+import Cravings from './cravings.png'
 import cravi from './cravi.png'
 
 
@@ -87,7 +86,6 @@ export const assets = {
     parcel_icon,
     banner_1,
     Cravings,
-    craving,
     cravi,
 
 }
